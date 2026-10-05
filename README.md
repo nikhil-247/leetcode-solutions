@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nikhil-247/leetcode-solutions/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/nikhil-247/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/nikhil-247/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/nikhil-247/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
