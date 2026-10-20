@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/nikhil-247/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0856-score-of-parentheses](https://github.com/nikhil-247/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikhil-247/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nikhil-247/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhil-247/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/nikhil-247/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
