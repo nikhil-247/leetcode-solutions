@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nikhil-247/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/nikhil-247/leetcode-solutions/tree/master/0062-unique-paths) |
 | [2409-count-days-spent-together](https://github.com/nikhil-247/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nikhil-247/leetcode-solutions/tree/master/0048-rotate-image) |
 | [1254-number-of-closed-islands](https://github.com/nikhil-247/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhil-247/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nikhil-247/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -139,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nikhil-247/leetcode-solutions/tree/master/0048-rotate-image) |
 | [1254-number-of-closed-islands](https://github.com/nikhil-247/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
