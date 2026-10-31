@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nikhil-247/leetcode-solutions/tree/master/0062-unique-paths) |
+| [3665-twisted-mirror-path-count](https://github.com/nikhil-247/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Combinatorics
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhil-247/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nikhil-247/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nikhil-247/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/nikhil-247/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nikhil-247/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/nikhil-247/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/nikhil-247/leetcode-solutions/tree/master/0048-rotate-image) |
 | [1254-number-of-closed-islands](https://github.com/nikhil-247/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [3665-twisted-mirror-path-count](https://github.com/nikhil-247/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Graph Theory
 |  |
 | ------- |
