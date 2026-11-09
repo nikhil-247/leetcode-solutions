@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nikhil-247/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/nikhil-247/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nikhil-247/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/nikhil-247/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/nikhil-247/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/nikhil-247/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nikhil-247/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nikhil-247/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhil-247/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/nikhil-247/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/nikhil-247/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
